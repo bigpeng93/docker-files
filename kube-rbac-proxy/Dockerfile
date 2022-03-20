@@ -1,0 +1,3 @@
+FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.8.0
+
+MAINTANIER "bigpeng93@gmail.com"
